@@ -13,5 +13,5 @@ What does Classic mean? Books that every developer should read.
   - Dave Thomas and Andy Hunt 
 - Refactoring
   - Martin Fowler
-- Clean Code
+- Clean Code: A Handbook of Agile Software Craftmanship
   - Robert C Martin
