@@ -1,15 +1,12 @@
-The Classic Reading List
+There is no point reinventing the wheel.
 ============
 
-A reading list of *classic* programming books - starting with the Ones from Ross Tuck's PHPNE14 keynote mentions.
+Eric Hogue just pointed me to : https://github.com/TechBooks/TechBooks/wiki
 
-What does Classic mean? Books that every developer should read.
+Please use and contribute to this amazing resource.
 
+He also pointed me to **Dev Book Club** whom have fortnightly meetups on Google Hangouts.
 
+https://plus.google.com/113250505599769873265/videos
 
-- Design Patterns : Elements of reusable Object- Oriented Software
-  - Ralph Johnson, John Vlissides, Richard Helm, and Erich Gamma
-- The Pragmatic Programmer
-  - Dave Thomas and Andy Hunt 
-- Refactoring
-  - Martin Fowler
+:) 
