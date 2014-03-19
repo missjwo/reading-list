@@ -1,7 +1,9 @@
-reading-list
+The Classic Reading List
 ============
 
-A reading list of *classic* programming books - starting with the Ones from Ross Tuck's PHPNE14 keynote mentions
+A reading list of *classic* programming books - starting with the Ones from Ross Tuck's PHPNE14 keynote mentions.
+
+What does Classic mean? Books that every developer should read.
 
 
 
